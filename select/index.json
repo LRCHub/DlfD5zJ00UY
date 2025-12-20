@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "雨が踊るから",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-20T14:34:25.147212Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨が踊るから",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_雨が踊るから_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨が踊るから",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_雨が踊るから_indigo_la_End.txt"
+    }
+  ]
+}
